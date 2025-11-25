@@ -1,0 +1,3 @@
+let preOrder = [27,16,9,12,54,36,72];
+let inOrder = [9,12,16,27,36,54,72];
+let postOrder = [];
