@@ -22,12 +22,12 @@ let least = 0;
 let tmp = 0;
 for(let i=1; i<A.length; i++) {
     arr.push(A[i]);
-    if(A[i] A[i-1]) {   // 앞에꺼와 비교.
-
-    }
-    if(A[i] A[i+1]) {   // 뒤에꺼와 비교.
-
-    }
+    // if(A[i] A[i-1]) {   // 앞에꺼와 비교.
+    //
+    // }
+    // if(A[i] A[i+1]) {   // 뒤에꺼와 비교.
+    //
+    // }
     
 }
 console.log("cnt : ", cnt);
