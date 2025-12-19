@@ -1,4 +1,4 @@
-package baekjoon.단계별._19단계_재귀;
+package org.jc.study;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-public class 문제_9471 {
+public class modularArithmetic {
     // [2025-12-17 JC : 문제의 예제로 인한 함정으로 헤메다가 해설보고 품 ]
     /**
      * 피보나치 수열
