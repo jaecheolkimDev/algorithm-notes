@@ -1,4 +1,4 @@
-package org.jc.study;
+package baekjoon.basic.study;
 
 import java.io.IOException;
 import java.util.Arrays;

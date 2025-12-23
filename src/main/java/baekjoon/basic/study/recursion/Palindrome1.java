@@ -1,4 +1,4 @@
-package org.jc.study.recursion;
+package baekjoon.basic.study.recursion;
 
 import static java.lang.System.out;
 

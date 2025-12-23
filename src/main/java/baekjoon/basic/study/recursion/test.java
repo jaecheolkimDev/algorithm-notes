@@ -1,4 +1,4 @@
-package org.jc.study.recursion;
+package baekjoon.basic.study.recursion;
 
 public class test {
 
